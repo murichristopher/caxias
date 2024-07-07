@@ -1,0 +1,3 @@
+- [ ] Implement ETS for storing entries
+- [ ] Implement summary
+- [ ] Add testing
